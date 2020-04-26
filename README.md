@@ -1,2 +1,25 @@
-# uri-online-judge
-Repositório para 
+# [URI ONLINE JUDGE](https://www.urionlinejudge.com.br/judge/pt)
+
+> Repositório para resolução de questões do **[URI ONLINE JUDGE](https://www.urionlinejudge.com.br/judge/pt)**
+
+![URI Logo](/README/uri_logo.png)
+
+## Categorias das Questões
+
+- **[Iniciante](https://www.urionlinejudge.com.br/judge/pt/problems/index/1)**: Problemas básicos para quem está iniciando na programação...
+
+- **[Ad-Hoc](https://www.urionlinejudge.com.br/judge/pt/problems/index/2)**: Problemas de Simulação, Datas e Ad-Hoc no geral...
+
+- **[Strings](https://www.urionlinejudge.com.br/judge/pt/problems/index/3)**: Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings...
+
+- **[Estruturas e Bibliotecas](https://www.urionlinejudge.com.br/judge/pt/problems/index/4)**: Filas, Pilhas, Ordenação, Mapas...
+
+- **[Matemática](https://www.urionlinejudge.com.br/judge/pt/problems/index/5)**: Sistemas Numéricos, Número Primos, BigInteger...
+
+- **[Paradigmas](https://www.urionlinejudge.com.br/judge/pt/problems/index/6)**: Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
+
+- **[Grafos](https://www.urionlinejudge.com.br/judge/pt/problems/index/7)**: Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
+
+- **[Geometria Computacional](https://www.urionlinejudge.com.br/judge/pt/problems/index/8)**: Pontos e Linhas, Polígonos...
+
+- **[SQL](https://www.urionlinejudge.com.br/judge/pt/problems/index/9)**: Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
